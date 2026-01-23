@@ -24,13 +24,13 @@ if (yesBtn) {
     slide4.innerHTML = `
       <h1>❤️ I’m truly honoured ❤️</h1>
       <p>
-        From the moment you entered my life, everything changed for the better.
-        Being your Valentine isn’t just something cute or fun to me — it means
+        From the moment you entered my life, You changed my life for the better.
+        Being your Valentine isn’t just a statement, it means
         choosing you, appreciating you, and celebrating the love we share.<br><br>
 
-        Thank you for trusting me with your heart, for loving me the way you do,
+        I appreciate you being in my life baby 😔❤️‍🔥 and thank you for trusting me with your heart, for loving me the way you do,
         and for making my world brighter just by being in it. I promise to keep
-        choosing you, supporting you, and loving you deeply — today and always.<br><br>
+        trying to be the best that I can for you, supporting you, and loving you deeply no matter what my sweetie babyy 🥹 I Love You SOOO MUCH Baby, forever and always ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥.<br><br>
 
         I’m so proud to be yours. ❤️
       </p>

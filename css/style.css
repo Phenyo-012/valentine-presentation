@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.slide {
+  display: none;
+  height: 100vh;
+  width: 100vw;
+  padding: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.active {
+  display: flex;
+}
+
+h1 {
+  max-width: 700px;
+}
+
+p {
+  font-size: 20px;
+  max-width: 700px;
+}
+
+button {
+  margin-top: 30px;
+  padding: 14px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+/* Slide colors */
+#slide1 { background: linear-gradient(135deg, #cfd9df, #e2ebf0); }
+#slide2 { background: linear-gradient(135deg, #fdfbfb, #ebedee); }
+#slide3 { background: linear-gradient(135deg, #d4fc79, #96e6a1); }
+
+.valentine {
+  background: linear-gradient(135deg, #ff758c, #ff7eb3);
+  color: white;
+  position: relative;
+}
+
+.yes {
+  background: #e91e63;
+  color: white;
+}
+
+.no {
+  background: #ccc;
+  color: #333;
+  position: absolute;
+  left: 20%;
+  top: 70%;
+}
+
+.heart {
+  position: fixed;
+  font-size: 24px;
+  animation: float 4s linear forwards;
+}
+
+@keyframes float {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-100vh);
+    opacity: 0;
+  }
+}

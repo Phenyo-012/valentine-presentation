@@ -15,15 +15,15 @@ body {
   width: 100vw;
   padding: 30px;
   text-align: center;
-  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.active {
+.slide.active {
   display: flex;
 }
+
 
 h1 {
   max-width: 700px;

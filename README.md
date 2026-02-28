@@ -1,4 +1,4 @@
-# **💘 Valentine Presentation Webpage**
+# **💘 Valentine Proposal Webpage**
 
 A playful, PowerPoint-style interactive webpage built with pure HTML, CSS, and JavaScript.
 
